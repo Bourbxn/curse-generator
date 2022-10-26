@@ -1,6 +1,6 @@
 # MERN Cursing Generator 1.0
 
-***64010090 - Jakkapat Paijit***
+***64010090 - Jakkapat Paijit***<br>
 System Platform Administration (01076118) Computer Engineering, KMITL<br><br>
 
 An easy website about cursing generator - developed using React, Node, Express and MongoDB. 
