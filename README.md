@@ -1,4 +1,4 @@
-# MERN Cursing Generator 1.0
+# MERN Cursing Generator
 
 ***64010090 - Jakkapat Paijit***
 
