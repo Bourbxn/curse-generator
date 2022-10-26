@@ -1,0 +1,17 @@
+.layout {
+    @apply flex h-full w-full;
+}
+
+.text{
+    @apply w-full flex justify-center text-white text-5xl pb-20 font-bold;
+}
+
+.button-layout{
+    @apply w-full flex justify-center;
+}
+
+.button{
+    @apply bg-white rounded-lg py-3 px-4 text-4xl shadow-2xl hover:bg-slate-300
+    transform duration-300 motion-safe:hover:scale-110 text-slate-700;
+}
+

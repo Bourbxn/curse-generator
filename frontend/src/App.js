@@ -1,7 +1,10 @@
+import CurseText from "./components/CurseText"
+import "./css/App.css"
+
 function App() {
   return (
-    <div className="w-screen h-screnn flex justify-center items-center text-5xl">
-      Hello React
+    <div className="layout">
+      <CurseText />
     </div>
   );
 }
