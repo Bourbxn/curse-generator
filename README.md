@@ -4,6 +4,7 @@
 
 System Platform Administration (01076118) Computer Engineering, KMITL<br><br>
 
+## ADescription
 An easy website about cursing generator - developed using React, Node, Express and MongoDB. 
 
 <img width="1437" alt="sample" src="https://user-images.githubusercontent.com/86193685/198152199-d754f96f-9d7c-4355-a613-b0016f84039a.png">
